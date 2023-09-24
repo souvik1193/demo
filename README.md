@@ -1,4 +1,4 @@
 # demo
-This is mny first repository
+This is my first repository
 <br>
 Author - Souvik Dasgupta
